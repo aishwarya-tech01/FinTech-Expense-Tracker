@@ -9,9 +9,9 @@ A backend-driven personal finance application designed to handle multiple user a
 * **Automated Live Listener:** A background trigger function that throws a system alert the exact moment a user's spending in any category crosses **90%** of their manually defined budget.
 
 ## 🛠️ Tech Stack
-* **Database:** MySQL
-* **Backend Language:** Python (or Node.js)
-* **Database Connector:** `mysql-connector-python`
+* **Database:** MySQL.
+* **Backend Language:** Python (or Node.js).
+* **Database Connector:** `mysql-connector-python`.
 
 ## 📊 Database Schema
 
